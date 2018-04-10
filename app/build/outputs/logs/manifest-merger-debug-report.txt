@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e53548e68729a8051252660ef52733f7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/af050840f4c844bdc0d13de6eecc3ee1/AndroidManifest.xml:2:1-11:12
 MERGED from [com.android.support:support-fragment:27.1.1] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0116d08e739f12867890257513cf75ba/AndroidManifest.xml:17:1-22:12
@@ -16,25 +16,25 @@ MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/brunomelo/.gradl
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/c6d5ff83da9965d048d9dc249f48bb0c/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4fe35aa3f9a15f8a0ca4a83ca38307bb/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/903691e65daf0cc292008781f480fc97/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
 	package
 		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:3:5-50
 		INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
-		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-21:12
+		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:1-24:12
 		INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/af050840f4c844bdc0d13de6eecc3ee1/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/brunomelo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/af050840f4c844bdc0d13de6eecc3ee1/AndroidManifest.xml:9:5-20
 	android:supportsRtl
@@ -50,19 +50,23 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/brun
 	android:theme
 		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.brunomelo.myapplication.MainActivity
-ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:16
 	android:name
 		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:13:9-17:25
 action#android.intent.action.MAIN
-ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:13-65
 	android:name
-		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:14:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:13-73
 	android:name
-		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:16:23-70
+activity#com.example.brunomelo.myapplication.SecondActivity
+ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml:20:19-49
 uses-sdk
 INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/brunomelo/AndroidStudioProjects/MyApplication/app/src/main/AndroidManifest.xml
