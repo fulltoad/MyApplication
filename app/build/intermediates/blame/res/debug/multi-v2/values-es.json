@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/brunomelo/AndroidStudioProjects/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml",
+            "outputFile": "D:\\GitHub\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es\\values-es.xml",
             "map": [
                 {
-                    "source": "/Users/brunomelo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/e53548e68729a8051252660ef52733f7/res/values-es/values-es.xml",
+                    "source": "C:\\Users\\Bruno\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\d810687c923562b93e26e3f5eaf363e4\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/brunomelo/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/180c7f27202d94496e3b1e0826fcd9b8/res/values-es/values-es.xml",
+                    "source": "C:\\Users\\Bruno\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\894686e594b591a9ffc90d030f13a6a3\\res\\values-es\\values-es.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
