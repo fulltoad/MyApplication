@@ -1,4 +1,7 @@
-#Thu Apr 12 09:16:02 BRT 2018
-base.0=/Users/brunomelo/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dexMerger/debug/29
+#Tue Apr 17 15:26:24 BRT 2018
+base.0=/Users/brunomelo/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dexMerger/debug/42
+path.1=classes.dex
+renamed.1=classes2.dex
 path.0=classes.dex
 renamed.0=classes.dex
+base.1=/Users/brunomelo/AndroidStudioProjects/MyApplication/app/build/intermediates/transforms/dexMerger/debug/41
